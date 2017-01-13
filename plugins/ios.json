@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.telkomsel.mytelkomsel-staging"
+        },
+        "ionic-plugin-deeplinks": {
+            "URL_SCHEME": "mytelkomselstaging",
+            "DEEPLINK_SCHEME": "https",
+            "DEEPLINK_HOST": "mytelkomselstaging.app.link",
+            "PACKAGE_NAME": "com.telkomsel.mytelkomsel-staging"
+        }
+    },
+    "dependent_plugins": {}
+}

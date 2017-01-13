@@ -1,0 +1,23 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "ionic-plugin-deeplinks": {
+        "source": {
+            "type": "registry",
+            "id": "ionic-plugin-deeplinks@~1.0.14"
+        },
+        "is_top_level": true,
+        "variables": {
+            "URL_SCHEME": "mytelkomselstaging",
+            "DEEPLINK_SCHEME": "https",
+            "DEEPLINK_HOST": "mytelkomselstaging.app.link",
+            "ANDROID_PATH_PREFIX": "/"
+        }
+    }
+}
